@@ -48,7 +48,21 @@ div {
     display: inline;
 }
 
+.b {
+    display: block;
+}
 
+.i {
+    /* display: inline; */
+    background-color: pink;
+}
 
-
-
+img {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    background-color: yellow;
+    border: 5px solid red;
+    margin: 20px;
+}
